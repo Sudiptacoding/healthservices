@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap-image/1.1">
   <url>
-    <loc>http://www.sudiptabiseas.org/</loc>
+    <loc>https://healthservices-theta.vercel.app</loc>
     <lastmod>2024-09-19</lastmod>
     <priority>1.0</priority>
   </url>
-  <url>
+  <!-- <url>
     <loc>http://www.sudiptabiseas.org/about</loc>
     <lastmod>2024-09-19</lastmod>
     <priority>0.8</priority>
   </url>
-  <!-- আরও URL যোগ করুন -->
+  আরও URL যোগ করুন -->
 </urlset>
